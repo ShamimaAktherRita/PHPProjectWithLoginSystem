@@ -1,0 +1,22 @@
+
+.text-default-color{color:  #FF4800;}
+.bg-default-color{background-color: #FF4800; }
+.bg-default-color:hover{background-color: #D93d00; }
+.bg-secondary-color{background-color: #F2F2F4;}
+
+.custom-nav-link{ font-weight: bold;}
+.custom-nav-link:hover{ background-color: #FF4800; color: #fff;}
+
+.banner-section{
+    background-image: url("../image/header.jpg");
+    height: 500px;
+}
+
+.card-form-div{
+    padding-top: 80px;
+    padding-left: 30px;
+    padding-right:30px ;
+}
+.img-height{
+    height:100px;
+}

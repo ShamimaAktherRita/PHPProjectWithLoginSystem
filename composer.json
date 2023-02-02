@@ -1,0 +1,19 @@
+{
+  "name": "day28/day28",
+  "type": "project",
+  "description": "",
+  "license": "",
+  "keywords": [],
+  "require": {
+
+  },
+  "require-dev": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "app\\":"app//"
+    }
+  }
+
+}
